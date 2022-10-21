@@ -4,7 +4,7 @@ Full credit to [**sappho**](https://github.com/sapphonie) for the _extensive_ wo
 
 
 # `zod.mge.tf` Reloaded 
-### ⚠️ not live on my server(s) right now ⚠️
+### ⚠️ `not live on my server(s) right now` ⚠️
 This is a _concept_ repository where, if I ever get the free time, I'll hopefully be able to work from sappho's absurdly well-made server setup into a much less well-made version that is perfectly tailored for my use. For now, the current servers run an ***EXTREMELY*** poorly made system, which is likely the way it will stay for a while.  
 
 ![bball-done](https://user-images.githubusercontent.com/16076573/197131842-0aa776e2-6026-4830-82a9-de924ef91807.png)
