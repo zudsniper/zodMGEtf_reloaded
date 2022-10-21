@@ -14,9 +14,9 @@ This is a _concept_ repository where, if I ever get the free time, I'll hopefull
 [![spooky.tf](https://user-images.githubusercontent.com/16076573/192673098-48467c36-2d96-43ca-bc02-5ec993989ceb.gif)](https://github.com/spookytf/)  
 
  ## Donate
- If you'd like to help support the server, you can check out the following links. If you do donate & I somehow don't notice, just shoot me a discord DM so I can thank you!
+ If you'd like to help support the server, you can check out the following links. If you do donate & I somehow don't notice, just shoot me a discord DM so I can thank you!  
  [**paypal/card donations**](https://donate.contenthell.earth/)  
  [**item donations**](https://tradeoffers.contenthell.earth/)  
  
- Thank you C:
+ Thanks C:
 
